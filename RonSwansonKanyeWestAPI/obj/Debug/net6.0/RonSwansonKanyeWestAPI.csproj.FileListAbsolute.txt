@@ -1,0 +1,17 @@
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\bin\Debug\net6.0\RonSwansonKanyeWestAPI.exe
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\bin\Debug\net6.0\RonSwansonKanyeWestAPI.deps.json
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\bin\Debug\net6.0\RonSwansonKanyeWestAPI.runtimeconfig.json
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\bin\Debug\net6.0\RonSwansonKanyeWestAPI.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\bin\Debug\net6.0\RonSwansonKanyeWestAPI.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\RonSwansonKanyeWestAPI.csproj.AssemblyReference.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\RonSwansonKanyeWestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\RonSwansonKanyeWestAPI.AssemblyInfoInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\RonSwansonKanyeWestAPI.AssemblyInfo.cs
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\RonSwansonKanyeWestAPI.csproj.CoreCompileInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\RonSwansonKanyeWestAPI.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\refint\RonSwansonKanyeWestAPI.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\RonSwansonKanyeWestAPI.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\RonSwansonKanyeWestAPI.genruntimeconfig.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\ref\RonSwansonKanyeWestAPI.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\RonSwansonKanyeWestAPI\RonSwansonKanyeWestAPI\obj\Debug\net6.0\RonSwansonKanyeWestAPI.csproj.CopyComplete

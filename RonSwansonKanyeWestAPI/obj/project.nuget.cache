@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARZLflb6TD2OdfIWPUTlf5U3JdQrdyCJL6c9gNTdJom3T1z1rH+r5I76XnEa5NwvYUBoYAY5DTlqkvNF1h/r9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mnich\\OneDrive\\Desktop\\Repos\\RonSwansonKanyeWestAPI\\RonSwansonKanyeWestAPI\\RonSwansonKanyeWestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mnich\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
